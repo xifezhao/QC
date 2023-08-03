@@ -5,7 +5,7 @@
 包括“量子计算编程基础课程讲义”——课程讲义全文:
 
 * **量子计算编程基础课程讲义.pdf:** 完整的课程讲义;
-* **Lecture_n_*PPT.pdf:** 课程幻灯片资源;
+* **Lecture_n_PPT.pdf:** 课程幻灯片资源;
 * **教学资源_图片_** 课程图片资源.
 
 This template works with _pdfLaTeX_, _XeLaTeX_ and _LuaLaTeX_. In order to adhere to the TU Delft house style, either _XeLaTeX_ or _LuaLaTeX_ is required, as it supports TrueType and OpenType fonts. _BibLaTeX_ is used for the bibliography with as backend _biber_. Please visit https://dzwaneveld.github.io/report/ for the full documentation.
