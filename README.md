@@ -2,9 +2,7 @@
 
 # QC 量子计算课程资源建设
 
-包括“量子计算编程基础课程讲义”——课程讲义全文
-
-This template aims to simplify and improve the (Xe)LaTeX report/thesis template by Delft University of Technology with the following three main design principles:
+包括“量子计算编程基础课程讲义”——课程讲义全文:
 
 * **量子计算编程基础课程讲义.pdf:** 完整的课程讲义;
 * **Lecture_n_*PPT.pdf:** 课程幻灯片资源;
