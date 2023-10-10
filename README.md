@@ -11,4 +11,4 @@
 
 
 
-<img src="https://github.com/xifezhao/QC/blob/main/COVER.png"> | <img src="https://dzwaneveld.github.io/images/report-template-title.jpg"> | <img src="https://dzwaneveld.github.io/images/report-template-chapter.jpg">
+<img src="https://github.com/xifezhao/QC/blob/main/COVER.png"> 
